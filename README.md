@@ -1,9 +1,8 @@
 # ENE461_sorayut
 My homework and project for ENE461 Introduction to Digital Image Processing KMUTT (2021).
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <p align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="gif"/>
+  <img src="https://31.media.tumblr.com/055338c016f5678ac9fab4201c35c4cf/tumblr_myu5ypVDe91syiy8io1_r1_500.gif" alt="gif"/>
 </p>
 
 ## Homework 1: Grayscale and Binary Conversion
