@@ -2,6 +2,9 @@
 My homework and project for ENE461 Introduction to Digital Image Processing KMUTT (2021).
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="gif"/>
+</p>
 
 ## Homework 1: Grayscale and Binary Conversion
 1. Convert original color image to grayscale image
