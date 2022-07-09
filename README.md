@@ -1,6 +1,8 @@
 # ENE461_sorayut
 My homework and project for ENE461 Introduction to Digital Image Processing KMUTT (2021).
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 ## Homework 1: Grayscale and Binary Conversion
 1. Convert original color image to grayscale image
 2. Plot the image histogram
